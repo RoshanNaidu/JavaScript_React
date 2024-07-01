@@ -1,1 +1,1 @@
-# Ethnus
+# JavaScript
